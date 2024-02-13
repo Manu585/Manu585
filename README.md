@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manuel</h1>
-<h3 align="center">A professional dumbass developer from Austria</h3>
+<h3 align="center">professional dumbass</h3>
 
 - 🔭 I’m currently working on **BoglitzMoglitz**
 
