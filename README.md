@@ -11,9 +11,7 @@ As a 19-year-old software developer with a fervent interest in crafting intricat
 
 - 👨‍💻 Explore my work at [my GitHub repositories](https://github.com/Manu585?tab=repositories).
 
-- 📫 Reach out to me at **manuelgogg2@gmail.com** for collaborations, freelance opportunities, or just to say hi!
-
-- ⚡ I find joy in the simple things in life, like the fact that nuts are called nuts.
+- 📫 Reach out to me at **manuelgogg2@gmail.com** for collaborations or freelance opportunities
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
