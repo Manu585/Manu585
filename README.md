@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Minecraft Plugin Developer from Austria</h3>
 
 <p align="center">
-As a 19-year-old software developer with a fervent interest in crafting intricate Minecraft plugins, I've dedicated much of my coding journey to mastering Java. With a solid foundation in C++ and C#, my heart lies in Java, where I've significantly contributed to the development of several prominent Minecraft servers. My portfolio showcases a blend of professional work and personal projects that reflect my enthusiasm for coding and game development.
+As a 20-year-old software developer with a fervent interest in crafting intricate Minecraft plugins, I've dedicated much of my coding journey to mastering Java. With a solid foundation in C++ and C#, my heart lies in Java, where I've significantly contributed to the development of several prominent Minecraft servers. My portfolio showcases a blend of professional work and personal projects that reflect my enthusiasm for coding and game development.
 </p>
 
 - 🔭 I’m currently working on **BoglitzMoglitz**, a project that aims to enhance the Minecraft gaming experience.
